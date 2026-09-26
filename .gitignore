@@ -23,9 +23,3 @@ sim/
 *.tmp
 *.bak
 *~
-
-# Common generated files
-*.out
-*.hex
-*.bin
-*.mem
