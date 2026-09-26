@@ -1,0 +1,31 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+*.iml
+.vscode/
+
+# Build and simulation output
+build/
+dist/
+sim/
+*.class
+*.o
+*.obj
+*.vcd
+*.fst
+*.lxt*
+*.wlf
+*.log
+*.tmp
+*.bak
+*~
+
+# Common generated files
+*.out
+*.hex
+*.bin
+*.mem
